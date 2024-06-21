@@ -20,7 +20,7 @@
 
 #### Checkpoint Evolução 
 
-Você deverá compartilhar todos os códigos desenvolvidos durante esse processo através do GitHub para auxiliar na análise de sua evolução a cada 2 meses.(SPOILER Isso também servirá de portfólio).
+Você deverá compartilhar todos os códigos desenvolvidos durante esse processo através do GitHub para auxiliar na análise de sua evolução a cada 2 semanas.(SPOILER Isso também servirá de portfólio).
 - **Usuário para Revisão:** [@johnnydev-tech](https://github.com/johnnydev-tech)
 - **Instruções:** Subir todos os códigos para o GitHub em modo público e adicionar o usuário acima como revisor para acompanhar a evolução.
 
