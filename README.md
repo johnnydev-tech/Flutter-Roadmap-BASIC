@@ -1,6 +1,5 @@
 ### Plano de Estudos de Flutter - 6 Meses (26 Semanas)
 
-
 #### Estrutura Geral
 - **Duração:** 26 semanas
 - **Checkpoints:** A cada 2 semanas
@@ -15,15 +14,18 @@
 - **Professor Diego Antunes:**
     - [Curso Completo de Flutter](https://www.youtube.com/watch?v=xkDWlDJaq2w&list=PL_wKlpKIC9vWCRIgMvH8pbRmX8XVouRv1&pp=iAQB)
     - [Projetos Práticos em Flutter](https://www.youtube.com/watch?v=b4ZxFLW7neQ&list=PL_wKlpKIC9vWubXsj3IRPZ2Rk6QMfsPPg&pp=iAQB)
+- **Reso Coder:**
+    - [Clean Architecture in Flutter](https://www.youtube.com/watch?v=KjE2IDphA_U&list=PLB6lc7nQ1n4jCBkrirv5uDMcI5OqAB73E)
+    - [Clean Code in Flutter](https://www.youtube.com/watch?v=z7TY5Jhl6Cs&list=PLB6lc7nQ1n4jA_jwP6daXnxD8xF8u8HHL)
+    - [Flutter Clean Architecture TDD](https://resocoder.com/flutter-clean-architecture-tdd/)
+- **Clean Dart:**
+    - [Clean Dart Repository](https://github.com/Flutterando/Clean-Dart)
 
+#### Checkpoint Evolução
 
-
-#### Checkpoint Evolução 
-
-Você deverá compartilhar todos os códigos desenvolvidos durante esse processo através do GitHub para auxiliar na análise de sua evolução a cada 2 semanas.(SPOILER Isso também servirá de portfólio).
+Você deverá compartilhar todos os códigos desenvolvidos durante esse processo através do GitHub para auxiliar na análise de sua evolução a cada 2 semanas. (SPOILER: Isso também servirá de portfólio).
 - **Usuário para Revisão:** [@johnnydev-tech](https://github.com/johnnydev-tech)
 - **Instruções:** Subir todos os códigos para o GitHub em modo público e adicionar o usuário acima como revisor para acompanhar a evolução.
-
 
 ### Roteiro
 #### Mês 1: Fundamentos do Flutter
@@ -78,8 +80,6 @@ Você deverá compartilhar todos os códigos desenvolvidos durante esse processo
 
 **Semana 13-14: Estilização e Temas**
 - **Teoria:**
-
-
   - Temas e customização de widgets
   - Uso de fontes e ícones personalizados
   - Dark mode e light mode
@@ -121,6 +121,16 @@ Você deverá compartilhar todos os códigos desenvolvidos durante esse processo
   - Revisão de conceitos aprendidos
   - Planejamento e design do aplicativo final
 - **App:** Aplicativo final que combina várias funcionalidades aprendidas (por exemplo, um app de finanças pessoais)
+
+**Semana 25-26: Arquitetura e Clean Code**
+- **Teoria:**
+  - Princípios da Arquitetura SOLID
+  - Introdução à Clean Architecture com Reso Coder
+  - Clean Dart e melhores práticas
+- **Recursos:**
+  - [Flutter Clean Architecture TDD - Reso Coder](https://resocoder.com/flutter-clean-architecture-tdd/)
+  - [Clean Dart Repository](https://github.com/Flutterando/Clean-Dart)
+- **App:** Implementação de um projeto seguindo os princípios de Clean Architecture e SOLID
 
 ####  Extra: Aplicativos Adicionais (Opcional)
 
