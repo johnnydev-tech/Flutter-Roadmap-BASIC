@@ -1,0 +1,29 @@
+
+name: Discord Release Notification
+
+on:
+  release:
+    types: [published]
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Read README.md
+        id: readme
+        uses: juliangruber/read-file-action@v1
+        with:
+          path: ./README.md
+
+      - name: Send Discord Notification
+        uses: tsickert/discord-webhook@v5.3.0
+        with:
+          webhook-url: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          embed-title: "New Release: ${{ github.event.release.name }}"
+          embed-description: "${{ github.event.release.body }}\n\n**README.md**\n${{ steps.readme.outputs.content }}"
+          embed-url: "${{ github.event.release.html_url }}"
+          embed-author-name: "${{ github.event.release.author.login }}"
+          embed-author-icon-url: "${{ github.event.release.author.avatar_url }}"
