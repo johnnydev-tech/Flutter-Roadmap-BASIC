@@ -12,17 +12,16 @@
 - **Clean Dart:** [Clean Dart Repository](https://github.com/Flutterando/Clean-Dart)
 - **Flutter Clean Architecture TDD:** [Reso Coder](https://resocoder.com/flutter-clean-architecture-tdd/)
 
-#### Canais do YouTube
 
-- **Flutter Official YouTube Channel:** [Canal](https://www.youtube.com/@flutterdev)
-    - **Widget of the Week:** [Playlist](https://www.youtube.com/watch?v=fatb7Clc0MM&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG)
-    - **Technique of the Week:** [Playlist](https://www.youtube.com/watch?v=fatb7Clc0MM&list=PLjxrf2q8roU3vMeIbJQFkNVwDbGcUN9vW)
-- **Professor Diego Antunes:**
-    - [Curso Completo de Flutter](https://www.youtube.com/watch?v=xkDWlDJaq2w&list=PL_wKlpKIC9vWCRIgMvH8pbRmX8XVouRv1&pp=iAQB)
-    - [Projetos Práticos em Flutter](https://www.youtube.com/watch?v=b4ZxFLW7neQ&list=PL_wKlpKIC9vWubXsj3IRPZ2Rk6QMfsPPg&pp=iAQB)
-- **Reso Coder:**
-    - [Clean Architecture in Flutter](https://www.youtube.com/watch?v=KjE2IDphA_U&list=PLB6lc7nQ1n4jCBkrirv5uDMcI5OqAB73E)
-    - [Clean Code in Flutter](https://www.youtube.com/watch?v=z7TY5Jhl6Cs&list=PLB6lc7nQ1n4jA_jwP6daXnxD8xF8u8HHL)
+
+
+| Canal | Descrição | Tags |
+| --- | --- | --- |
+| [Professor Diego Antunes](https://www.youtube.com/@drantunes) | Ótimo para iniciantes, com um curso completo e projetos práticos. | Flutter |
+| [Flutterando](https://www.youtube.com/@Flutterando) | Conteúdo avançado, focado em arquitetura, gerenciamento de estado e boas práticas. | Flutter |
+| [Rodrigo Rahman](https://www.youtube.com/@rodrigorahman) | Excelente para aprender sobre arquitetura de software e TDD. | Tecnologia |
+| [Código Fonte TV](https://www.youtube.com/@codigofontetv) | Conteúdo geral sobre programação, ótimo para se manter atualizado sobre o mercado. | Tecnologia |
+| [Akita](https://www.youtube.com/@Akitando) | Conteúdo denso e profundo sobre engenharia de software, arquitetura e carreira. | Tecnologia |
 
 
 #### Checkpoint Evolução
