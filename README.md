@@ -32,13 +32,13 @@ Muitos roadmaps são apenas listas de tecnologias. O nosso é um **plano de aç�
 | 2 | 7-8 | Formulários e Validações | - Formulários e input de usuário<br>- Validação de formulários<br>- Gerenciamento de estado básico (setState) | Verificador de combustível | [Building a form with validation](https://docs.flutter.dev/cookbook/forms/validation) |
 | 3 | 9-10 | Consumo de APIs | - HTTP requests com o pacote `http`<br>- Parsing de JSON<br>- Gerenciamento de dados assíncronos (FutureBuilder) | Consulta de CEP (ViaCep) | [Networking](https://docs.flutter.dev/data-and-backend/networking) |
 | 3 | 11-12 | Persistência de Dados | - Armazenamento local com SharedPreferences<br>- Persistência de dados em arquivos<br>- Introdução ao SQLite e bancos de dados locais | Lista de Tarefas (To-Do List) | [Persistence](https://docs.flutter.dev/data-and-backend/persistence) |
-| 4 | 13-14 | Estilização e Temas | - Temas e customização de widgets<br>- Uso de fontes e ícones personalizados<br>- Dark mode e light mode | App de clima com tema | [Theming](https://docs.flutter.dev/ui/theme) |
+| 4 | 13-14 | Estilização e Temas | - Temas e customização de widgets<br>- Uso de fontes e ícones personalizados<br>- Dark mode e light mode | App de clima com tema | [Theming](https://docs.flutter.dev/cookbook/design/themes) |
 | 4 | 15-16 | Animações | - Animações básicas (AnimatedContainer, AnimatedOpacity)<br>- Animações com o AnimationController<br>- Animações complexas (Hero animations) | App com animações de transição | [Introduction to animations](https://docs.flutter.dev/ui/animations) |
 | 5 | 17-18 | Gerenciamento de Estado | - Introdução ao Provider<br>- Uso de Riverpod e outras bibliotecas de gerenciamento de estado | App de controle de despesas | [State management](https://docs.flutter.dev/data-and-backend/state-mgmt/options) |
 | 5 | 19-20 | Integração com Firebase | - Autenticação com Firebase Auth<br>- Armazenamento de dados com Firestore<br>- Push notifications com Firebase Cloud Messaging | Chat simples com autenticação | [Add Firebase to your Flutter app](https://firebase.google.com/docs/flutter/setup) |
 | 6 | 21-22 | Testes e Debugging | - Testes de widgets e integração<br>- Debugging e profiling<br>- Melhorias de desempenho | App de cotação do Bitcoin | [Testing Flutter apps](https://docs.flutter.dev/testing) |
 | 6 | 23-24 | Projeto Final | - Revisão de conceitos aprendidos<br>- Planejamento e design do aplicativo final | App de finanças pessoais | - |
-| 6 | 25-26 | Arquitetura e Clean Code | - Princípios da Arquitetura SOLID<br>- Introdução à Clean Architecture com Reso Coder<br>- Clean Dart e melhores práticas | Projeto com Clean Architecture | [Guide to app architecture](https://docs.flutter.dev/architecture) |
+| 6 | 25-26 | Arquitetura e Clean Code | - Princípios da Arquitetura SOLID<br>- Introdução à Clean Architecture com Reso Coder<br>- Clean Dart e melhores práticas | Projeto com Clean Architecture | **Clean Dart:** [Clean Dart Repository](https://github.com/Flutterando/Clean-Dart) **Flutter Clean Architecture TDD:** [Reso Coder](https://resocoder.com/flutter-clean-architecture-tdd/) |
 
 ---
 
