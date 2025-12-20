@@ -71,9 +71,9 @@ Sugerimos que você compartilhe os códigos desenvolvidos durante esse processo 
 | [Flutterando](https://www.youtube.com/@Flutterando) | Conteúdo avançado, focado em arquitetura, gerenciamento de estado e boas práticas. | Flutter |
 | [Rodrigo Rahman](https://www.youtube.com/@rodrigorahman) | Excelente para aprender sobre arquitetura de software e TDD. | Tecnologia |
 | [Código Fonte TV](https://www.youtube.com/@codigofontetv) | Conteúdo geral sobre programação, ótimo para se manter atualizado sobre o mercado. | Tecnologia |
-| [Akita](https.youtube.com/@Akitando) | Conteúdo denso e profundo sobre engenharia de software, arquitetura e carreira. | Tecnologia |
+| [Akita](https://www.youtube.com/@Akitando) | Conteúdo denso e profundo sobre engenharia de software, arquitetura e carreira. | Tecnologia |
 
-- **Comunidade no Discord:** [Junte-se a nós!](https://discord.gg/9eqHSb32)
+- **Comunidade no Discord:** [Junte-se a nós!](https://discord.gg/xmD5zyq6)
 - **Documentação Oficial do Flutter:** [Flutter Docs](https://docs.flutter.dev/)
 - **Clean Dart:** [Clean Dart Repository](https://github.com/Flutterando/Clean-Dart)
 - **Flutter Clean Architecture TDD:** [Reso Coder](https://resocoder.com/flutter-clean-architecture-tdd/)
